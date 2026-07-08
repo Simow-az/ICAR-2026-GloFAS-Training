@@ -3,18 +3,18 @@ version: 1
 # Branding
 extends:
   # choose between c3s.yml, cams.yml, and ecmwf.yml
-  - branding/c3s.yml
+  - branding/ecmwf.yml
 
 project:
-  title: ECMWF Training Template
+  title: ICAR2026- GloFAS Training
   license: Apache-2.0
   open_access: true
   exclude:
     - developer/*
-  github: ecmwf-training/jupyter-template
+  github: https://github.com/Simow-az/ICAR-2026-GloFAS-Training/
   thebe:
     binder:
-      repo: ecmwf-training/jupyter-template
+      repo: Simow-az/ICAR-2026-GloFAS-Training/
       provider: github
       url: https://mybinder.org
       ref: main
@@ -24,7 +24,13 @@ project:
       output: exports/book.pdf
   toc:
     - file: content/index.md
+    - file : 2026-ICAR-Workshop - 1 - Accessing and downloading GloFAS data from CEMS Early Warning Data Store.ipynb
+    - file : 2026-ICAR-Workshop - 2 - Evaluating GloFAS Simulations.ipynb
     - file : 2026-ICAR-Workshop - 3 - Analysing Historical River Discharge and Climatology.ipynb
+    - file : 2026-ICAR-Workshop - 4 - Analysing GloFAS Forecasts.ipynb
+    - file : 2026-ICAR-Workshop - 5 - Analysing GloFAS ensemble forecasts.ipynb
+    - file : 2026-ICAR-Workshop - 6 - Analysing GloFAS seasonal forecasts.ipynb
+    
 site:
   template: book-theme
   options:
