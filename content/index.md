@@ -1,42 +1,54 @@
-# ECMWF Jupyter Book template
+# Hydrological Forecasting and the Global Flood Awareness System (GloFAS)
 
-This repository provides a **ready-to-use template** for creating and maintaining **Jupyter Books**
-for learning, training, and technical documentation in C3S/CAMS projects implemented by ECMWF.
+This Jupyter Book accompanies the **ICAR 2026 – 5th International Conference on African Rivers** held in Rabat, Morocco.
 
-It serves two purposes:
+It contains the material for the hands-on training:
 
-1. **Help you get started quickly.**
-    The template gives you a clear structure and consistent styling, so you can focus on your content.
-2. **Guide you along the way.**
-    It also documents recommended practices, helping you avoid rework later during reviews and publication.
+> **Hydrological Forecasting and the Global Flood Awareness System (GloFAS)**  
+> *Copernicus Emergency Management Service (CEMS)*
 
-In short, the template saves time twice: first by accelerating the initial setup, and later by reducing review cycles and fixes.
-
+The notebooks introduce participants to the GloFAS datasets and demonstrate how to access, analyse and evaluate hydrological simulations and forecasts using Python.
 
 ::::{grid} 1 1 2 3
 
 :::{card}
-:header: Get started
-:link: ./howto/setup-book
-Follow step-by-step instructions to set up your Jupyter Book.
+:header: Workshop 1
+:link: ./2026-ICAR-Workshop%20-%201%20-%20Accessing%20and%20downloading%20GloFAS%20data%20from%20CEMS%20Early%20Warning%20Data%20Store
+Access and download GloFAS data from the CEMS Early Warning Data Store (EWDS).
 :::
 
 :::{card}
-:header: Notebook template
-:link: ./reference/template-notebook
-Start from a minimal notebook template that already follows best practices.
+:header: Workshop 2
+:link: ./2026-ICAR-Workshop%20-%202%20-%20Evaluating%20GloFAS%20Simulations
+Evaluate GloFAS historical simulations against river observations.
 :::
 
 :::{card}
-:header: Best practices
-:link: ./reference/best-practices
-Learn how to develop clear and review-ready notebooks.
+:header: Workshop 3
+:link: ./2026-ICAR-Workshop%20-%203%20-%20Analysing%20Historical%20River%20Discharge%20and%20Climatology
+Analyse historical river discharge, climatology and anomalies.
+:::
+
+:::{card}
+:header: Workshop 4
+:link: ./2026-ICAR-Workshop%20-%204%20-%20Analysing%20GloFAS%20Forecasts
+Explore deterministic GloFAS flood forecasts.
+:::
+
+:::{card}
+:header: Workshop 5
+:link: ./2026-ICAR-Workshop%20-%205%20-%20Analysing%20GloFAS%20ensemble%20forecasts
+Analyse ensemble forecasts and forecast uncertainty.
+:::
+
+:::{card}
+:header: Workshop 6
+:link: ./2026-ICAR-Workshop%20-%206%20-%20Analysing%20GloFAS%20seasonal%20forecasts
+Analyse seasonal river discharge forecasts and outlooks.
 :::
 
 ::::
 
-
-:::{note} 
-This documentation is organised using the [Diátaxis framework](./explanation/diataxis.md).
-We recommend using the same approach when structuring your own project’s Jupyter Book.
+:::{note}
+These notebooks have been developed by **ECMWF** as part of the ICAR 2026 training programme. They provide practical examples for accessing, analysing and visualising GloFAS data using Python and are intended as a starting point for participants wishing to use GloFAS in research and operational applications.
 :::
