@@ -13,38 +13,32 @@ The notebooks introduce participants to the GloFAS datasets and demonstrate how 
 
 :::{card}
 :header: Workshop 1
-:link: ./2026-ICAR-Workshop%20-%201%20-%20Accessing%20and%20downloading%20GloFAS%20data%20from%20CEMS%20Early%20Warning%20Data%20Store
-Access and download GloFAS data from the CEMS Early Warning Data Store (EWDS).
+:link: ./2026-ICAR-Workshop - 1 - Accessing and downloading GloFAS data from CEMS Early Warning Data Store.ipynb
 :::
 
 :::{card}
 :header: Workshop 2
-:link: ./2026-ICAR-Workshop%20-%202%20-%20Evaluating%20GloFAS%20Simulations
-Evaluate GloFAS historical simulations against river observations.
+:link: ./2026-ICAR-Workshop - 2 - Evaluating GloFAS Simulations.ipynb
 :::
 
 :::{card}
 :header: Workshop 3
-:link: ./2026-ICAR-Workshop%20-%203%20-%20Analysing%20Historical%20River%20Discharge%20and%20Climatology
-Analyse historical river discharge, climatology and anomalies.
+:link: ./2026-ICAR-Workshop - 3 - Analysing Historical River Discharge and Climatology.ipynb
 :::
 
 :::{card}
 :header: Workshop 4
-:link: ./2026-ICAR-Workshop%20-%204%20-%20Analysing%20GloFAS%20Forecasts
-Explore deterministic GloFAS flood forecasts.
+:link: ./2026-ICAR-Workshop - 4 - Analysing GloFAS Forecasts.ipynb
 :::
 
 :::{card}
 :header: Workshop 5
-:link: ./2026-ICAR-Workshop%20-%205%20-%20Analysing%20GloFAS%20ensemble%20forecasts
-Analyse ensemble forecasts and forecast uncertainty.
+:link: ./2026-ICAR-Workshop - 5 - Analysing GloFAS ensemble forecasts.ipynb
 :::
 
 :::{card}
 :header: Workshop 6
-:link: ./2026-ICAR-Workshop%20-%206%20-%20Analysing%20GloFAS%20seasonal%20forecasts
-Analyse seasonal river discharge forecasts and outlooks.
+:link: ./2026-ICAR-Workshop - 6 - Analysing GloFAS seasonal forecasts.ipynb
 :::
 
 ::::
