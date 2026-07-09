@@ -13,32 +13,32 @@ The notebooks introduce participants to the GloFAS datasets and demonstrate how 
 
 :::{card}
 :header: Workshop 1
-:link: ./2026-ICAR-Workshop - 1 - Accessing and downloading GloFAS data from CEMS Early Warning Data Store.ipynb
+:link: /2026-ICAR-Workshop - 1 - Accessing and downloading GloFAS data from CEMS Early Warning Data Store.ipynb
 :::
 
 :::{card}
 :header: Workshop 2
-:link: ./2026-ICAR-Workshop - 2 - Evaluating GloFAS Simulations.ipynb
+:link: /2026-ICAR-Workshop - 2 - Evaluating GloFAS Simulations.ipynb
 :::
 
 :::{card}
 :header: Workshop 3
-:link: ./2026-ICAR-Workshop - 3 - Analysing Historical River Discharge and Climatology.ipynb
+:link: /2026-ICAR-Workshop - 3 - Analysing Historical River Discharge and Climatology.ipynb
 :::
 
 :::{card}
 :header: Workshop 4
-:link: ./2026-ICAR-Workshop - 4 - Analysing GloFAS Forecasts.ipynb
+:link: /2026-ICAR-Workshop - 4 - Analysing GloFAS Forecasts.ipynb
 :::
 
 :::{card}
 :header: Workshop 5
-:link: ./2026-ICAR-Workshop - 5 - Analysing GloFAS ensemble forecasts.ipynb
+:link: /2026-ICAR-Workshop - 5 - Analysing GloFAS ensemble forecasts.ipynb
 :::
 
 :::{card}
 :header: Workshop 6
-:link: ./2026-ICAR-Workshop - 6 - Analysing GloFAS seasonal forecasts.ipynb
+:link: /2026-ICAR-Workshop - 6 - Analysing GloFAS seasonal forecasts.ipynb
 :::
 
 ::::
