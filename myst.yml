@@ -9,6 +9,7 @@ project:
   title: ICAR2026- GloFAS Training
   license: Apache-2.0
   open_access: true
+  hide_title_block: true
   exclude:
     - developer/*
   github: https://github.com/Simow-az/ICAR-2026-GloFAS-Training/
@@ -36,4 +37,4 @@ site:
   options:
     folders: true
 
-hide_title_block: true
+
