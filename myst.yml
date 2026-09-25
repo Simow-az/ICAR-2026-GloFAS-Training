@@ -28,9 +28,6 @@ project:
     - file : 2026-ICAR-Workshop - 1 - Accessing and downloading GloFAS data from CEMS Early Warning Data Store.ipynb
     - file : 2026-ICAR-Workshop - 2 - Evaluating GloFAS Simulations.ipynb
     - file : 2026-ICAR-Workshop - 3 - Analysing Historical River Discharge and Climatology.ipynb
-    - file : 2026-ICAR-Workshop - 4 - Analysing GloFAS Forecasts.ipynb
-    - file : 2026-ICAR-Workshop - 5 - Analysing GloFAS ensemble forecasts.ipynb
-    - file : 2026-ICAR-Workshop - 6 - Analysing GloFAS seasonal forecasts.ipynb
     
 site:
   template: book-theme
