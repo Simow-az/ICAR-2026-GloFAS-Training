@@ -29,24 +29,6 @@ Evaluate GloFAS simulations.
 Analyse historical discharge and climatology.
 :::
 
-:::{card}
-:header: Workshop 4
-:link: 2026-ICAR-Workshop - 4 - Analysing GloFAS Forecasts
-Analyse GloFAS forecasts.
-:::
-
-:::{card}
-:header: Workshop 5
-:link: 2026-ICAR-Workshop - 5 - Analysing GloFAS ensemble forecasts
-Analyse ensemble forecasts.
-:::
-
-:::{card}
-:header: Workshop 6
-:link: 2026-ICAR-Workshop - 6 - Analysing GloFAS seasonal forecasts
-Analyse seasonal forecasts.
-:::
-
 ::::
 :::{note}
 These notebooks have been developed by **ECMWF** as part of the ICAR 2026 training programme. They provide practical examples for accessing, analysing and visualising GloFAS data using Python and are intended as a starting point for participants wishing to use GloFAS in research and operational applications.
