@@ -13,20 +13,17 @@ The notebooks introduce participants to the GloFAS datasets and demonstrate how 
 
 :::{card}
 :header: Workshop 1
-:link: 2026-ICAR-Workshop - 1 - Accessing and downloading GloFAS data from CEMS Early Warning Data Store
-Access and download GloFAS data from EWDS.
+:link: 2026-ICAR-Workshop - 1 - Accessing and downloading GloFAS data from CEMS Early Warning Data Store.ipynb
 :::
 
 :::{card}
 :header: Workshop 2
-:link: 2026-ICAR-Workshop - 2 - Evaluating GloFAS Simulations
-Evaluate GloFAS simulations.
+:link: 2026-ICAR-Workshop - 2 - Evaluating Glofas simulations against observed dischargeipynb
 :::
 
 :::{card}
 :header: Workshop 3
-:link: 2026-ICAR-Workshop - 3 - Analysing Historical River Discharge and Climatology
-Analyse historical discharge and climatology.
+:link: 2026-ICAR-Workshop - 3 - Analysing Historical River Discharge and Climatology.ipynb
 :::
 
 ::::
